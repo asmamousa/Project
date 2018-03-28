@@ -21,3 +21,5 @@ Both of them can see tips, stories and delete their accounts and they will be gi
 In this project, we used:
 1- Languages: PHP, html+html5, CSS, bootstrap and JavaScript.
 2- Tools: phpStorm, XAMPP server, Argo UML and Microsoft project.
+
+P.S. here's the link for detailed report http://www.mediafire.com/file/9l2rxg7gzlgjkzt/Final-Report.pdf
